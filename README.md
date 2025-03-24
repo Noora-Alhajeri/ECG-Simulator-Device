@@ -34,7 +34,7 @@ Before hardware construction, the ECG waveform was modeled in **Multisim**. The 
 
 These three waves were **combined using a summing amplifier** with unity gain to generate a complete ECG signal.
 
-![Multisim Circuit](./figures/figure3.png)
+![Multisim Circuit](./figures/3.png)
 
 The complete **Multisim simulation** can be found in: `./ECG-Simulator.ms14`
 
